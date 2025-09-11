@@ -3,12 +3,12 @@
 ## 💻 Sobre mim:
 Olá, meu nome é Nikollas, tenho 20 anos e estou em busca de novas experiências no mercado de trabalho. Estou sempre disposto a aprender e evoluir, gosto muito da tecnologia e atualmente estou cursando Técnico em Desenvolvimento de Sistemas no Senai e Bacharelado em Sistemas de Informação na Impacta.
 
-- 🚀 Habilidades em desenvolvimento: Java, C#, Banco de Dados, JavaScript Backend, HTML5.
+- 🚀 Habilidades em desenvolvimento: Java, C#, Banco de Dados, JavaScript Backend, HTML5 e CSS.
 - 🔥 Objetivo: Criar soluções inovadoras e eficientes.
 - 😎 Sempre estudando e buscando novos conhecimentos para evoluir na área de TI.
 - 💼 Buscando oportunidades para crescer e aplicar minhas habilidades.
 
-## 🛠️ Tecnologias & Ferramentas:
+## 🛠️ Habilidades em construção:
 
 
 **Linguagens & Marcação:**
