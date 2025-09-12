@@ -8,7 +8,7 @@ Olá, meu nome é Nikollas, tenho 20 anos e estou em busca de novas experiência
 - 😎 Sempre estudando e buscando novos conhecimentos para evoluir na área de TI.
 - 💼 Buscando oportunidades para crescer e aplicar minhas habilidades.
 
-## 🛠️ Habilidades em construção:
+##  Habilidades em construção:
 
 
 **Linguagens & Marcação:**
@@ -37,17 +37,17 @@ Olá, meu nome é Nikollas, tenho 20 anos e estou em busca de novas experiência
 - ### 🍽️ [Cantina_2.0](https://github.com/nikollas-dh/Cantina_2.0)
 Sistema de **gestão de cantina escolar** feito em **C# (Windows Forms)**.  
 Inclui cadastro de produtos, carrinho, pedidos e formas de pagamento.
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![Windows Forms](https://img.shields.io/badge/Windows%20Forms-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+
+- ###  🏃‍♂️‍➡️⚽  [Sistema_De_Gerenciamento_Esportivo](https://github.com/nikollas-dh/Sistema_De_Gerenciamento_Esportivo)
+Sistema de **gerenciamento esportivo** desenvolvido em Java JFrame com integração ao banco de dados.
+Essa aplicação permite cadastrar times e jogadores, alterar e deletar no MariaDB.
 
 - ###  📚  [APIAlunos](https://github.com/nikollas-dh/APIAlunos)
 API simples desenvolvida em **Node.js + Express** para gerenciar alunos.  
 Permite criar, listar e buscar registros com validação de dados (CPF, CEP, UF, etc).
 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+
 
 
 ## 📊 Estatísticas do GitHub
