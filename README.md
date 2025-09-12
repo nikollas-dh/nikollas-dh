@@ -39,7 +39,7 @@ Sistema de **gestão de cantina escolar** feito em **C# (Windows Forms)**.
 Inclui cadastro de produtos, carrinho, pedidos e formas de pagamento.
 
 - ###  🏃‍♂️‍➡️⚽  [Sistema_De_Gerenciamento_Esportivo](https://github.com/nikollas-dh/Sistema_De_Gerenciamento_Esportivo)
-Sistema de **gerenciamento esportivo** desenvolvido em Java JFrame com integração ao banco de dados.
+**Sistema de gerenciamento esportivo** desenvolvido em **Java (JFrame)** com integração ao **banco de dados**.
 Essa aplicação permite cadastrar times e jogadores, alterar e deletar no MariaDB.
 
 - ###  📚  [APIAlunos](https://github.com/nikollas-dh/APIAlunos)
