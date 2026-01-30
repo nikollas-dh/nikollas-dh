@@ -1,6 +1,6 @@
 # Nikollas Dheyvis
 
-## Sobre mim:
+## 🙋 Sobre mim:
 Olá, meu nome é **Nikollas**, tenho 20 anos e atualmente estou cursando **Técnico em Desenvolvimento de Sistemas no Senai**.
 
 ## 📊 Estatísticas do GitHub
@@ -8,7 +8,7 @@ Olá, meu nome é **Nikollas**, tenho 20 anos e atualmente estou cursando **Téc
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nikollas-dh&layout=compact&theme=tokyonight)
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nikollas-dh&title_color=00bfff&icon_color=00bfff&text_color=cfcfcf&bg_color=0d1117)
 
-## 💻 Projetos:
+## 📌 Projetos:
 
 ### 📘 [Biblio_Tec](https://github.com/nikollas-dh/Biblio_Tec)
 > Projeto de uma **biblioteca** feito em **JavaScript (Node Express)** e conexão com o **MariaDB**.  
@@ -24,7 +24,7 @@ Essa aplicação permite cadastrar times e jogadores, alterar e deletar no Maria
 
 
 
-##  Tecnologias:
+## 💻 Tecnologias:
 
 
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
