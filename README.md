@@ -1,12 +1,8 @@
 # Nikollas Dheyvis
 
 ## 🙋 Sobre mim:
-Olá, meu nome é **Nikollas**, tenho 20 anos e atualmente estou cursando **Técnico em Desenvolvimento de Sistemas no Senai**.
-
-## 📊 Estatísticas do GitHub
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nikollas-dh&layout=compact&theme=tokyonight)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nikollas-dh&title_color=00bfff&icon_color=00bfff&text_color=cfcfcf&bg_color=0d1117)
+Olá, meu nome é **Nikollas**, tenho 21 anos e atualmente estou cursando **Técnico em Desenvolvimento de Sistemas no Senai** e sou 
+competidor da SP Skills na modalidade de soluções de software para negócios.
 
 ## 📌 Projetos:
 
