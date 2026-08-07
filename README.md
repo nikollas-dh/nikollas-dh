@@ -1,8 +1,8 @@
 # Nikollas Dheyvis
 
 ## 🙋 Sobre mim:
-Olá, meu nome é **Nikollas**, tenho 21 anos e atualmente estou cursando **Técnico em Desenvolvimento de Sistemas no Senai** e sou 
-competidor da SP Skills na modalidade de soluções de software para negócios.
+Olá, meu nome é **Nikollas**, tenho 21 anos e atualmente estou cursando **Técnico em Desenvolvimento de Sistemas no Senai** e além disso sou 
+competidor da **SP Skills** na modalidade de **Soluções de Software** para Negócios.
 
 ## 📌 Projetos:
 
