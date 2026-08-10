@@ -13,7 +13,5 @@ Possuí cadastro de livros e usuários, solicitações de empréstimos, login e 
 >
 > 
 
-### 💻Estatísticas:
-
 [![GitHub Stats](https://www.readmecodegen.com/api/github-stats/svg?username=nikollas-dh&cardType=langs)](https://www.readmecodegen.com/custom-github-card-generator)
 [![GitHub Stats](https://www.readmecodegen.com/api/github-stats/svg?username=nikollas-dh&showProfilePic=false&followers=false&following=false)](https://www.readmecodegen.com/custom-github-card-generator)
