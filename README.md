@@ -12,6 +12,9 @@ competidor da **SP Skills** na modalidade de **Soluções de Software** para Neg
 Possuí cadastro de livros e usuários, solicitações de empréstimos, login e etc.
 >
 > 
-
+### 🍽 [Reservas de Restaurantes](https://github.com/nikollas-dh/Reservas_De_Restaurantes)
+> Aplicação Desktop desenvolvida em C# (Windows Forms) com Entity Framework e SQL Server, permitindo cadastro e autenticação de usuários com hash, consulta de restaurantes e solicitação de reservas.
+>
+> 
 [![GitHub Stats](https://www.readmecodegen.com/api/github-stats/svg?username=nikollas-dh&cardType=langs)](https://www.readmecodegen.com/custom-github-card-generator)
 [![GitHub Stats](https://www.readmecodegen.com/api/github-stats/svg?username=nikollas-dh&showProfilePic=false&followers=false&following=false)](https://www.readmecodegen.com/custom-github-card-generator)
