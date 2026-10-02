@@ -18,12 +18,12 @@ Possuí cadastro de livros e usuários, solicitações de empréstimos, login e 
 > 
 ### 🍽 [Reservas de Restaurantes](https://github.com/nikollas-dh/Reservas_De_Restaurantes)
 > Aplicação **Desktop** desenvolvida em **C#** (**Windows Forms**) com **Entity Framework** e **SQL Server**, permitindo cadastro e autenticação de usuários com hash, consulta de restaurantes e solicitação de reservas.
->
-> 
-<div align="center">
 
-<img height="180em" src="https://www.readmecodegen.com/api/github-stats/svg?username=nikollas-dh&cardType=langs"/>
+## 📊 Minhas estatísticas do GitHub
+<div align="start">
 
-<img height="180em" src="https://www.readmecodegen.com/api/github-stats/svg?username=nikollas-dh&showProfilePic=false&followers=false&following=false"/>
+<img height="250em" src="https://www.readmecodegen.com/api/github-stats/svg?username=nikollas-dh&cardType=langs"/>
+
+<img height="250em" src="https://www.readmecodegen.com/api/github-stats/svg?username=nikollas-dh&showProfilePic=false&followers=false&following=false"/>
 
 </div>
