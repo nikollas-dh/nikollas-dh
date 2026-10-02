@@ -8,8 +8,8 @@ Olá, meu nome é **Nikollas**, tenho 21 anos e atualmente estou cursando **Téc
 ## 📌 Projetos:
 
 ### 🍔 [Nhac Delivery](https://github.com/NhacDelivery)
-> Aplicativo Mobile de uma rede de **Delivery** feito em **Spring Boot** e  **Flutter**.  
-Projeto desenvolvido em grupo, constando com 3 tipos de aplicativo, um para entregador,um para lojista e um para usuário, além de uma **aplicação web**.
+> Projeto desenvolvido em grupo de uma rede de **Delivery** feito em **Spring Boot** e  **Flutter**.  
+Constando com 3 tipos de aplicativo, um para entregador,um para lojista e um para usuário, além de uma **aplicação web**.
 
 ### 📘 [Biblio_Tec](https://github.com/nikollas-dh/Biblio_Tec)
 > Projeto de uma **biblioteca** feito em **C# (ASP.NET)** e conexão com o **SQL SERVER**.  
