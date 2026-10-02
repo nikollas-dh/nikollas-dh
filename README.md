@@ -7,6 +7,10 @@ competidor da **SP Skills** na modalidade de **Soluções de Software** para Neg
 
 ## 📌 Projetos:
 
+### 🍔 [Nhac Delivery](https://github.com/NhacDelivery)
+> Aplicativo Mobile de uma rede de **Delivery** feito em **Spring Boot** e  **Flutter**.  
+Projeto desenvolvido em grupo constando com 3 tipos de aplicativo, um para entregador,um para lojista e um para usuário, além de uma aplicação web.
+
 ### 📘 [Biblio_Tec](https://github.com/nikollas-dh/Biblio_Tec)
 > Projeto de uma **biblioteca** feito em **C# (ASP.NET)** e conexão com o **SQL SERVER**.  
 Possuí cadastro de livros e usuários, solicitações de empréstimos, login e etc.
